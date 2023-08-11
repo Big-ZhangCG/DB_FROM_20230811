@@ -16,6 +16,9 @@ update_path =   "C:\\Users\\goodluck\\Desktop\\DB\\auto_update"
 DTBS_path = os.path.join(storage_path, "DTBS.pkl")
 DCBS_path = os.path.join(storage_path, "DCBS.pkl")
 
+# 用相对路径
+DCBS_path = '..\\database_storage\\DCBS.pkl'
+
 
 def convert_code(ori_code, mkt):
     m = '.' + mkt[0:2].upper()

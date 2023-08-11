@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="2023-08-11&#10;By 张程功&#10;第1次备份，有事无事存一份" />
+    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="2023-08-11&#10;By 张程功&#10;第1次备份，有事无事存一份">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_update/to_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/auto_update/to_database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/display.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/daily/display.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/to_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily/to_database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-10 热门可转债+双低(只有今天的数据).xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/2023-08-10 热门可转债+双低(只有今天的数据).xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-10 热门可转债+双低.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/2023-08-10 热门可转债+双低.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/DCBS_toDataFrame.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/DCBS_toDataFrame.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/DTBS_toDataframe.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/DTBS_toDataframe.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/backtest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/backtest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_daily.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_daily.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_prepare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_prepare.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/热门可转债+低价程度（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/热门可转债+低价程度（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,14 +54,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/goodluck/.ssh/id_rsa&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/goodluck/Desktop/DB_by_ZCG",
+    "settings.editor.selected.configurable": "settings.sync"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\goodluck\Desktop\DB\mywork_ByZCG" />
@@ -181,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691717460117</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2023-08-11&#10;By 张程功&#10;第1次备份，有事无事存一份">
+      <created>1691717532061</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1691717532061</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -15,6 +15,9 @@ storage_path =  "C:\\Users\\goodluck\\Desktop\\DB\\database_storage"
 update_path =   "C:\\Users\\goodluck\\Desktop\\DB\\auto_update"
 DTBS_path = os.path.join(storage_path, "DTBS.pkl")
 
+# 用相对路径
+DTBS_path = '..\\database_storage\\DTBS.pkl'
+
 def find_diff(list1,list2):
     bt = set(list1).intersection(set(list2)) 
     al = set(list1).union(set(list2))
