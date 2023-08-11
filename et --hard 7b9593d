@@ -1,0 +1,35 @@
+[33m6088546[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: revert: Revert "修改readme.md 2023-07-03"
+[33mfc7cd66[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: checkout: moving from ConvertibleBond_zcg to main
+[33ma9408d7[m[33m ([m[1;31morigin/ConvertibleBond_zcg[m[33m, [m[1;32mConvertibleBond_zcg[m[33m)[m HEAD@{2}: checkout: moving from main to ConvertibleBond_zcg
+[33m7b9593d[m HEAD@{3}: commit: 2023-07-07
+[33mfc7cd66[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{4}: commit: update
+[33m1a5ff21[m HEAD@{5}: pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+[33md2e53dc[m HEAD@{6}: commit: weekly update
+[33m697d178[m HEAD@{7}: commit: Update
+[33m8955787[m HEAD@{8}: commit: update
+[33m3aafb69[m HEAD@{9}: commit: dgd DB
+[33m2db203d[m HEAD@{10}: commit: update
+[33m6b5613f[m HEAD@{11}: commit: weekly update
+[33md4cbb19[m HEAD@{12}: commit: weekly update
+[33m4a75e44[m HEAD@{13}: commit: weekly update
+[33m0b0a91c[m HEAD@{14}: commit: recent update
+[33madfef6b[m HEAD@{15}: commit: low price
+[33m0af33c7[m HEAD@{16}: commit: new test & low price strategy
+[33me457f1b[m HEAD@{17}: commit: strategy update
+[33mb78ab90[m HEAD@{18}: commit: improve strategy
+[33mf49563c[m HEAD@{19}: commit: update stock price and finish rewriting strategy and testing
+[33m89a785b[m HEAD@{20}: commit: rewrite backtest（still working
+[33m8914e74[m HEAD@{21}: commit: test ytm and different weekdays
+[33m29040a3[m HEAD@{22}: commit: finish price range turnover and balance backtest
+[33m2187d8c[m HEAD@{23}: commit: finish turnoverrate and doublelow and industry
+[33m34c74ae[m HEAD@{24}: commit: Done some testing：believe dtbs is fine now
+[33mbefd7ea[m HEAD@{25}: commit: finish all cb data， including delisting
+[33mde4ccef[m HEAD@{26}: commit: working ON delisting cb
+[33m4042908[m HEAD@{27}: commit: finish the turnover rate & double low strategy
+[33maac8df0[m HEAD@{28}: commit: Create Untitled-checkpoint.ipynb
+[33mb6b2e27[m HEAD@{29}: commit: complete DTBS
+[33mbffaee4[m HEAD@{30}: commit: finish building dtbs
+[33m8ac0b08[m HEAD@{31}: commit: update 3-20 and 3-21 data
+[33m3c31aa8[m HEAD@{32}: commit: re-BUILD database
+[33m496533d[m HEAD@{33}: commit: start database
+[33m3226b2f[m HEAD@{34}: clone: from https://github.com/yts798/DB.git
