@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="2023-07-27&#10;By 张程功&#10;第10次备份，有事无事存一份" />
+    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="2023-08-11&#10;By 张程功&#10;第1次备份，有事无事存一份" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +32,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SB3Ve8MwrnAHxO1gNPPGJMqNNp" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -174,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691716077885</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2023-08-11&#10;By 张程功&#10;第1次备份，有事无事存一份">
+      <created>1691717460117</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1691717460117</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +206,7 @@
     <MESSAGE value="2023-07-27&#10;By 张程功&#10;第8次备份，有事无事存一份" />
     <MESSAGE value="2023-07-27&#10;By 张程功&#10;第9次备份，有事无事存一份" />
     <MESSAGE value="2023-07-27&#10;By 张程功&#10;第10次备份，有事无事存一份" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-07-27&#10;By 张程功&#10;第10次备份，有事无事存一份" />
+    <MESSAGE value="2023-08-11&#10;By 张程功&#10;第1次备份，有事无事存一份" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-08-11&#10;By 张程功&#10;第1次备份，有事无事存一份" />
   </component>
 </project>
