@@ -25,8 +25,8 @@ with open(DTBS_path, 'rb') as f:
     DTBS = pickle.load(f)
 
 # 通过转债代码查询相对应的正股代码、正股名称，根据需要修改需要查询的可转债代码、日期、季度 bond_code、query_date、query_quarter
-bond_code = '123152.SZ'
-query_date = '2023-08-14'
+bond_code = '128138.SZ'
+query_date = '2023-08-15'
 query_quarter = '2023-03'
 
 stock_code = DTBS['B'][bond_code]['sc']
