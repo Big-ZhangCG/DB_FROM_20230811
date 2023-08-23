@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="By 张程功&#10;第8次备份，日常存储。">
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/DTBS_toDataframe.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/DTBS_toDataframe.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="By 张程功&#10;第8次备份，日常存储。" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692693472021</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="By 张程功&#10;第8次备份，日常存储。">
+      <created>1692697700998</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1692697700998</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
