@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="By 张程功&#10;第8次备份，日常存储。" />
+    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="By 张程功&#10;第9次备份，日常存储。">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_manual.txt" beforeDir="false" afterPath="$PROJECT_DIR$/user_manual.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_manual_daily.txt" beforeDir="false" afterPath="$PROJECT_DIR$/user_manual_daily.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692697700998</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="By 张程功&#10;第9次备份，日常存储。">
+      <created>1692753724657</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1692753724657</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,6 +288,7 @@
     <MESSAGE value="By 张程功&#10;第6次备份，日常存储。" />
     <MESSAGE value="By 张程功&#10;第7次备份，日常存储。" />
     <MESSAGE value="By 张程功&#10;第8次备份，日常存储。" />
-    <option name="LAST_COMMIT_MESSAGE" value="By 张程功&#10;第8次备份，日常存储。" />
+    <MESSAGE value="By 张程功&#10;第9次备份，日常存储。" />
+    <option name="LAST_COMMIT_MESSAGE" value="By 张程功&#10;第9次备份，日常存储。" />
   </component>
 </project>
