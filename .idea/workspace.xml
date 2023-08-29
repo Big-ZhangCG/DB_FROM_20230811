@@ -6,26 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="By 张程功&#10;备份，更新。">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_update/cz_wind.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/auto_update/cz_wind.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/update_bondValue.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/build/update_bondValue.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/daily/display.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/daily/display.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/.ipynb_checkpoints/mywork_update_DTBS_cat_zs_sw_yqq-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-07 热门可转债+双低+低价程度(只有今天的数据).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-07 热门可转债+双低+低价程度.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-10 热门可转债(测试).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-10 热门可转债(测试，只有今天的数据).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-22 热门可转债+双低(只有今天的数据).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-22 热门可转债+双低.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-23 热门可转债+双低(只有今天的数据).xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/2023-08-23 热门可转债+双低(只有今天的数据).xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-23 热门可转债+双低.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/2023-08-23 热门可转债+双低.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-23 热门可转债+双低(只有今天的数据).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-23 热门可转债+双低.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mywork_ByZCG/DCBS_toDataFrame.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/DCBS_toDataFrame.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mywork_ByZCG/DTBS_toDataframe.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/DTBS_toDataframe.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/backtest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/backtest.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_DailyCheckForDownwardConvertibleBonds.py" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_DailyCheckForDownwardConvertibleBonds.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_daily.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_daily.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_update_DTBS_B_risk_warning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_update_DTBS_B_risk_warning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_update_DTBS_cat_zs_sw_yqq.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/strategy_analyze.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/strategy_analyze.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_平衡型转债绘图.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_平衡型转债绘图.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_网格交易法_实验阶段.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_网格交易法_实验阶段.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mywork_ByZCG/test_草稿纸.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/test_草稿纸.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/平衡型转债.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692783145374</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="By 张程功&#10;备份，更新。">
+      <created>1692953407835</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1692953407835</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -25,8 +25,8 @@ with open(DTBS_path, 'rb') as f:
     DTBS = pickle.load(f)
 
 # 通过转债代码查询相对应的正股代码、正股名称，根据需要修改需要查询的可转债代码、日期、季度 bond_code、query_date、query_quarter
-bond_code = '113542.SH'
-query_date = '2023-08-24'
+bond_code = '118012.SH'
+query_date = '2023-08-28'
 query_quarter = '2023-03'
 
 stock_code = DTBS['B'][bond_code]['sc']
@@ -34,8 +34,12 @@ cn = DTBS['B'][bond_code]['cn']
 
 # 以下查询并输出货币资金、债券余额、到期期限、大股东名称及是否为国企等信息
 # hb 货币资金
-hb = DTBS['F'][stock_code][query_quarter]['hb']
-print(DTBS['F'][stock_code][query_quarter])
+if DTBS['F'].get(stock_code, 'F区未存储对应正股信息') == 'F区未存储对应正股信息':
+    hb = 'F区未存储对应正股的货币资金信息'
+    print('F区未存储对应正股的货币资金信息')
+else:
+    hb = DTBS['F'][stock_code][query_quarter]['hb']
+    print(DTBS['F'][stock_code][query_quarter])
 
 # bl 债券余额, yl 到期期限
 bl = DTBS['A'][bond_code][query_date]['bl']
@@ -43,12 +47,16 @@ yl = DTBS['A'][bond_code][query_date]['yl']
 print(DTBS['A'][bond_code][query_date])
 
 # dgd 大股东名称
-dgd = DTBS['G'][stock_code]['dgd']
-print(DTBS['G'][stock_code])
+if DTBS['G'].get(stock_code, 'G区未存储对应正股信息') == 'G区未存储对应正股信息':
+    dgd = 'G区未存储对应正股的大股东信息'
+    print('G区未存储对应正股的大股东信息')
+else:
+    dgd = DTBS['G'][stock_code]['dgd']
+    print(DTBS['G'][stock_code])
 
 # gq 是否为国企（1代表是，0代表不是）
-gq = DTBS['B'][bond_code]['gq']
-company_nature = DTBS['B'][bond_code]['company_nature']
+gq = DTBS['B'][bond_code].get('gq', 'B区未存储正股是否为国企的信息')
+company_nature = DTBS['B'][bond_code].get('company_nature', 'B区未存储正股的公司属性')
 print(DTBS['B'][bond_code])
 
 # 打印信息，大股东是否持有需要根据wind手动判断一下
