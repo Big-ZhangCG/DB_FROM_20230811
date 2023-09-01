@@ -4,19 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="By 张程功&#10;备份，更新mywork_DailyCheckForDownwardConvertibleBonds.py中的一些小bug。">
+    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="By 张程功&#10;备份，更新。">
+      <change afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_daily_update_DTBS_A_redeem_count.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/daily/display.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/daily/display.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-24 热门可转债+双低(只有今天的数据).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-24 热门可转债+双低.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-25 热门可转债+双低(只有今天的数据).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-08-25 热门可转债+双低.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mywork_ByZCG/DCBS_toDataFrame.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/DCBS_toDataFrame.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mywork_ByZCG/DTBS_toDataframe.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/DTBS_toDataframe.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_DailyCheckForDownwardConvertibleBonds.py" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_DailyCheckForDownwardConvertibleBonds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/backtest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/backtest.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_daily.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_daily.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_平衡型转债绘图.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_平衡型转债绘图.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_prepare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_prepare.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_网格交易法_实验阶段.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_网格交易法_实验阶段.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/old_five_strategy_prepare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/old_five_strategy_prepare.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/低价5（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/低价5（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/低价小市值5（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/低价小市值5（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/区间双低3（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/区间双低3（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/双低5（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/双低5（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/小市值3双低5（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/小市值3双低5（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/高ytm（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/高ytm（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mywork_ByZCG/test_草稿纸.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/test_草稿纸.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -293,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693274489729</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="By 张程功&#10;备份，更新。">
+      <created>1693388453230</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1693388453230</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,8 +339,8 @@
     <MESSAGE value="By 张程功&#10;第8次备份，日常存储。" />
     <MESSAGE value="By 张程功&#10;第9次备份，日常存储。" />
     <MESSAGE value="By 张程功&#10;备份，更新了数据库说明文档。" />
-    <MESSAGE value="By 张程功&#10;备份，更新。" />
     <MESSAGE value="By 张程功&#10;备份，更新mywork_DailyCheckForDownwardConvertibleBonds.py中的一些小bug。" />
-    <option name="LAST_COMMIT_MESSAGE" value="By 张程功&#10;备份，更新mywork_DailyCheckForDownwardConvertibleBonds.py中的一些小bug。" />
+    <MESSAGE value="By 张程功&#10;备份，更新。" />
+    <option name="LAST_COMMIT_MESSAGE" value="By 张程功&#10;备份，更新。" />
   </component>
 </project>
