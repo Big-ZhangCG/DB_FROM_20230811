@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="By 张程功&#10;备份，更新，添加了获取集思录上精确的强赎天计数的信息。">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily/display.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/daily/display.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/DCBS_toDataFrame.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/DCBS_toDataFrame.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_daily.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_daily.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="By 张程功&#10;备份，更新。" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -312,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693876051233</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="By 张程功&#10;备份，更新。">
+      <created>1693962694930</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1693962694930</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,8 +350,8 @@
     <MESSAGE value="By 张程功&#10;第9次备份，日常存储。" />
     <MESSAGE value="By 张程功&#10;备份，更新了数据库说明文档。" />
     <MESSAGE value="By 张程功&#10;备份，更新mywork_DailyCheckForDownwardConvertibleBonds.py中的一些小bug。" />
-    <MESSAGE value="By 张程功&#10;备份，更新。" />
     <MESSAGE value="By 张程功&#10;备份，更新，添加了获取集思录上精确的强赎天计数的信息。" />
-    <option name="LAST_COMMIT_MESSAGE" value="By 张程功&#10;备份，更新，添加了获取集思录上精确的强赎天计数的信息。" />
+    <MESSAGE value="By 张程功&#10;备份，更新。" />
+    <option name="LAST_COMMIT_MESSAGE" value="By 张程功&#10;备份，更新。" />
   </component>
 </project>

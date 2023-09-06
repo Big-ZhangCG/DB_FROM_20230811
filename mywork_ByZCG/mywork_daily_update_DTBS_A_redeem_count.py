@@ -67,7 +67,8 @@ for bond_code, informations in DTBS['A'].items():
             DTBS['A'][bond_code][today]['redeem_count'] = mapping[bond_code[:6]]['force_redeem']
         else:
             DTBS['A'][bond_code][today]['redeem_count'] = mapping[bond_code[:6]]['redeem_count'].replace("<br>", "，").\
-                replace('<span title="未到转股期" style="color:gray;">', '未到转股期，').replace('</span>', '')
+                replace('<span title="未到转股期" style="color:gray;">', '未到转股期，').replace('</span>', '').\
+                replace('<span style="color:blue;">!', '')
         print(DTBS['A'][bond_code][today])
     else:
         print('这只转债在本日不活跃')
