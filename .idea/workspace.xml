@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="By 张程功&#10;备份，更新。" />
+    <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="By 张程功&#10;备份，更新。">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/display.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/daily/display.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-09-01 热门可转债+双低(只有今天的数据).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-09-01 热门可转债+双低.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-09-04 热门可转债+双低(只有今天的数据).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-09-04 热门可转债+双低.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-09-05 热门可转债+双低(只有今天的数据).xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/2023-09-05 热门可转债+双低(只有今天的数据).xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/2023-09-05 热门可转债+双低.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/2023-09-05 热门可转债+双低.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/DCBS_toDataFrame.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/DCBS_toDataFrame.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/DTBS_toDataframe.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/DTBS_toDataframe.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/backtest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/backtest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_DailyCheckForDownwardConvertibleBonds.py" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_DailyCheckForDownwardConvertibleBonds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_daily.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_daily.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_update_DTBS_A_cz_pd.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_update_DTBS_A_cz_pd.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_网格交易法_实验阶段.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_网格交易法_实验阶段.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/old_five_strategy_prepare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/old_five_strategy_prepare.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/低价5（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/低价5（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/低价小市值5（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/低价小市值5（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/区间双低3（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/区间双低3（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/双低+平底5（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/双低+平底5（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/双低5（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/双低5（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/小市值3双低5（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/小市值3双低5（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/高ytm（全量数据DTBS，用于回测）.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/pre_data_for_backtest/高ytm（全量数据DTBS，用于回测）.xlsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -314,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693962694930</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="By 张程功&#10;备份，更新。">
+      <created>1693962833535</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1693962833535</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
