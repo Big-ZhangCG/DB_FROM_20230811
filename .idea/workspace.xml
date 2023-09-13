@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="454dccfc-7fdd-4d60-bd3e-5dbeb393df73" name="Changes" comment="By 张程功&#10;备份，更新。">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily/display.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/daily/display.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/DCBS_toDataFrame.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/DCBS_toDataFrame.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/DTBS_toDataframe.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/DTBS_toDataframe.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_DailyCheckForDownwardConvertibleBonds.py" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_DailyCheckForDownwardConvertibleBonds.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_daily.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/mywork_change_daily.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywork_ByZCG/test_草稿纸.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mywork_ByZCG/test_草稿纸.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -343,7 +337,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694165435876</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="By 张程功&#10;备份，更新。">
+      <created>1694424543839</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1694424543839</updated>
+    </task>
+    <task id="LOCAL-00037" summary="By 张程功&#10;备份，更新。">
+      <created>1694586085263</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1694586085263</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
