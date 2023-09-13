@@ -25,8 +25,8 @@ with open(DTBS_path, 'rb') as f:
     DTBS = pickle.load(f)
 
 # 通过转债代码查询相对应的正股代码、正股名称，根据需要修改需要查询的可转债代码、日期、季度 bond_code、query_date、query_quarter
-bond_code = '113661.SH'
-query_date = '2023-09-08'
+bond_code = '113644.SH'
+query_date = '2023-09-12'
 query_quarter = '2023-03'
 
 stock_code = DTBS['B'][bond_code]['sc']
@@ -61,8 +61,8 @@ print(DTBS['B'][bond_code])
 
 # 打印信息，大股东是否持有需要根据wind手动判断一下
 if gq == 0:
-    print(cn, bond_code, '：现金', hb, '亿，债券余额', bl, '亿，到期期限', yl, '年，', '大股东', dgd, ', 是',
+    print(cn, bond_code, '：现金', round(hb, 3), '亿，债券余额', bl, '亿，到期期限', yl, '年，', '大股东', dgd, ', 是',
           company_nature, '，不是国企')
 else:
-    print(cn, bond_code, '：现金', hb, '亿，债券余额', bl, '亿，到期期限', yl, '年，', '大股东', dgd, ', 是',
+    print(cn, bond_code, '：现金', round(hb, 3), '亿，债券余额', bl, '亿，到期期限', yl, '年，', '大股东', dgd, ', 是',
           company_nature, '，是国企')
